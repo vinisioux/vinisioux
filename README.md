@@ -8,9 +8,7 @@
 </p>
 
 <p  align="center">
-	<a  href="https://linkedin.com/in/viniciusleonardo" target="_blank">
-	<img  align="center" src="https://img.shields.io/badge/-Vinicius%20Henrique-blue?style=flat-	square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusleonardo"  alt="vinicius" height="20" width="125" />
-	</a>
+	<a href="https://www.linkedin.com/in/viniciusleonardo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="viniciusleonardo" height="20" width="20" /></a>
 </p>
 
 ---
