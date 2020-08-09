@@ -28,7 +28,7 @@
 	<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px- Node.js_logo.svg.png"  alt="Node.js"  height="30"/>
 	</a>
 	<a href="https://reactjs.org/"  target="_blank">
-	<img src="https://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png"  alt="ReactJS"  height="30" />
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"  alt="ReactJS"  height="30" />
 	</a>
 	<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-1.png"  alt="HTML5"  height="30"/>
 	<img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"  alt="CSS3"  height="30"/>
