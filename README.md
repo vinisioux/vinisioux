@@ -4,7 +4,7 @@
 <p  align="center">
 	Me chamo Vinicius, tenho 22 anos, gosto muito de programação tanto backend quanto frontend. Busco a cada 	dia evoluir meus conhecimentos em torno da linguagem Javascript e suas bibliotecas.
 	<br />
-	Atualmente cursando o 7º período de Sistemas de Informação.
+	Atualmente cursando o 8º período de Sistemas de Informação.
 </p>
 
 <p  align="center">
