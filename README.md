@@ -2,7 +2,7 @@
 <h1  align="center">Bem vindo ao meu perfil! ✌️</h1>
 
 <p  align="center">
-	Me chamo Vinicius, tenho 22 anos, gosto muito de programação tanto backend quanto frontend. Busco a cada 	dia evoluir meus conhecimentos em torno da linguagem Javascript e suas bibliotecas.
+	Me chamo Vinicius, tenho 23 anos, gosto muito de programação tanto backend quanto frontend. Busco a cada 	dia evoluir meus conhecimentos em torno da linguagem Javascript e suas bibliotecas.
 	<br />
 	Atualmente cursando o 8º período de Sistemas de Informação.
 </p>
