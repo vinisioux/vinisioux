@@ -1,25 +1,15 @@
-<samp>
-<h1  align="center">Bem vindo ao meu perfil! ✌️</h1>
 
+### Hi, I'm Vinicius! 👋
+I like both backend and frontend programming. I seek every day to evolve my knowledge around the Javascript language and its libraries.
+
+##
 <p  align="center">
-	Me chamo Vinicius, tenho 23 anos, gosto muito de programação tanto backend quanto frontend. Busco a cada 	dia evoluir meus conhecimentos em torno da linguagem Javascript e suas bibliotecas.
-	<br />
-	Atualmente cursando o 8º período de Sistemas de Informação.
-</p>
-
-<p  align="center">
-	<a href="https://www.linkedin.com/in/viniciusleonardo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="viniciusleonardo" height="20" width="20" /></a>
-</p>
-
----
-
-<p  align="center">
-	🚀 Hoje em dia estou focado em estudar as seguintes tecnologias:
+	🚀 I am currently focused on studying the following technologies:
 	<br />
 	<strong>TypeScript</strong>,
 	<strong>Node.js</strong>,
 	<strong>ReactJS</strong>,
-	<strong>React Native</strong> e 
+	<strong>React Native</strong> and 
 	<strong>GraphQL</strong>
 </p>
 
@@ -41,4 +31,8 @@
 	</a>
 </p>
 
----
+<div align="center">
+  <a href="https://github.com/vinisioux">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisioux&layout=compact&theme=material-palenight" />
+  </a>
+</div>
