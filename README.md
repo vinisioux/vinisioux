@@ -1,6 +1,6 @@
 
 ### Hi, I'm Vinicius! 👋
-I like both backend and frontend programming. I seek every day to evolve my knowledge around the Javascript language and its libraries.
+I am a Fullstack Developer with a passion for coding and learning new techs.
 
 ##
 <p  align="center">
@@ -8,8 +8,7 @@ I like both backend and frontend programming. I seek every day to evolve my know
 	<br />
 	<strong>TypeScript</strong>,
 	<strong>Node.js</strong>,
-	<strong>ReactJS</strong>,
-	<strong>React Native</strong> and 
+	<strong>ReactJS</strong> and
 	<strong>GraphQL</strong>
 </p>
 
