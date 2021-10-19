@@ -1,6 +1,6 @@
 
 ### Hi, I'm Vinicius! 👋
-I am a Fullstack Developer with a passion for coding and learning new techs.
+I'm a Fullstack Developer with a passion for coding and learning new techs.
 
 ##
 <p  align="center">
